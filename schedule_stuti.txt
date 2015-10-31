@@ -1,0 +1,5 @@
+    Task					                |	Duration	 |	   Tentative Date
+	------------------------------------------------------------------
+	Design Main Page				        |	 08 hours	 |     Nov 3, 2015	
+	Add Widgets (Buttons Sliders)	  |	 06 hours	 |	   Nov 4, 2015
+	View Individual Pain trajectory	|	 16 hours	 |	   Nov 7, 2015
