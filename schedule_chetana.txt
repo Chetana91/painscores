@@ -1,0 +1,5 @@
+	Task        |	Duration	|	Tentative Date
+	------------------------------------------------------------------
+	File Parser                 | 8 hrs     | Sunday (1st Nov)
+	Pain Score Viz (bars)       | 16 hrs    | Wednesday (4th Nov)
+	Filter data for groups      | 4 hrs     | Friday (6th Nov)
