@@ -1,8 +1,8 @@
 {
 	"main_script": "Pains.js",
 	"icon": "Pains.png",
-	"width": 3000,
-	"height": 1050,
+	"width": 8000,
+	"height": 2000,
 	"resize": "free",
 	"dependencies": [
 	],
