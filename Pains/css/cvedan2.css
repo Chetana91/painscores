@@ -1,0 +1,138 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab|Merriweather+Sans:400,700|PT+Sans);
+
+body {
+	background-color: #FFF6ED;
+	margin: 0px;
+	color: #730745;
+	font-weight: 350;
+	/*color: #5A9DCC*/
+	font-family: 'Open Sans', 'Helvetica', sans-serif;
+}
+
+#header {
+	margin: 0px;
+	clear:both;
+	background-color: #BEEBE7;
+	/*background-color: #eee;
+	text-align:center;*/
+	/*border-bottom: 1px dotted #5e5e5e;*/
+}
+
+h1, h3, h6{
+	font-family: 'Roboto Slab','Helvetica', sans-serif;
+	font-weight: 700;
+	color: #cb4b16;
+	font-size: 3em;
+	margin-bottom: .4em;
+}
+
+h2 {
+	font-family: 'Roboto Slab','Helvetica', sans-serif;
+	font-weight: 700;
+	color: #A75D0A;
+	margin-bottom: .4em;
+	
+}
+
+table {  
+    width: 100%;
+}
+th {
+  background: #f8f8f8; 
+  font-weight: bold;    
+    padding: 2px;
+}
+
+a { font-weight: bold; }
+a:link { color: #166399; }
+a:visited { color: #5C4545; }
+a:hover, a:active { color: #FF6600; }
+
+#breadcrumbs
+{
+	padding: 5px;
+	font-weight: 300;
+	font-size: .8em;
+	height: 20px;
+	display: none;
+}
+.here{
+	color: '#cb4b16';
+	font-weight:700;
+	font-size: 1.2em;	
+}
+
+#nav {
+	border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+#nav li{
+    display:inline;
+}
+#nav a{
+    display:inline-block;
+    padding:10px;}
+
+
+@media all and (max-width: 500px) {
+	h2 {
+		padding-left: 10px;
+		text-align: center;
+	}
+	#main {
+		width: 100%;
+		padding-left: 10px;
+	}
+}
+
+.container {
+	clear:both;
+}
+
+#desc-img {
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+#footer {
+	clear:both;
+}
+
+img.icon {
+	max-width: 100%; max-height: 100%;
+}
+
+        .axis path, .axis line
+        {
+            fill: none;
+            stroke: #777;
+            shape-rendering: crispEdges;
+        }
+        
+        .axis text
+        {
+            font-family: 'Arial';
+            font-size: 30px;
+        }
+        .tick
+        {
+            stroke-dasharray: 1, 2;
+        }
+        .bar
+        {
+            fill: FireBrick;
+        }
+		.tick line
+		{
+			opacity: 0.5;
+		}
+        
+    	.legend {
+			color: red;
+			font-size: 40px;
+		}

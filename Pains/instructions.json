@@ -1,0 +1,18 @@
+{
+	"main_script": "Pains.js",
+	"icon": "Pains.png",
+	"width": 3000,
+	"height": 1050,
+	"resize": "free",
+	"dependencies": [
+	],
+	"load": {
+		"value": 4
+	},
+	"title": "Pains",
+	"version": "1.0.0",
+	"description": "SAGE2 application Pains",
+	"keywords": [ "sage2", "Pains" ],
+	"author": "cvedan2  <>",
+	"license": "SAGE2-Software-License"
+}

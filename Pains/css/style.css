@@ -1,0 +1,47 @@
+.menu {
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.group {
+	
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-left: 20px;	
+}
+
+.pattern {
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.individual {
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+/*.axis text {
+  		 fill: rgb(169, 178, 189);
+			}*/
+
+.axis {
+	stroke: white;
+	/*fill: rgb(169, 178, 189);*/
+	fill: none;	
+	stroke-width: 1px;
+}
+.axis path{
+	 fill: none;
+    stroke: white;
+}
+
+.menuText {
+	color: white;
+	/*float: left;*/
+}
+
+.legend {
+	font-size: 30px;
+}
+
+.axisText {
+	font-size: 30px;
+}
